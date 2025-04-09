@@ -10,7 +10,7 @@
                 "Responsive Design",
                 "Bootstrap 5"
             ],
-            "image": "../../assets/images/000.png",
+            "image": "./assets/images/000.png",
             "projectPath": "../../projects/000/index.html",
             "ytLink": "https://youtu.be/PZWKgHWfZiY"
         },
@@ -23,7 +23,7 @@
                 "CSS3",
                 "JavaScript"
             ],
-            "image": "../../assets/images/001.png",
+            "image": "./assets/images/001.png",
             "projectPath": "../../projects/001/index.html",
             "ytLink": "https://youtu.be/1kb9jPVOy1I"
         },
@@ -36,7 +36,7 @@
                 "CSS3",
                 "JavaScript"
             ],
-            "image": "../../assets/images/002.png",
+            "image": "./assets/images/002.png",
             "projectPath": "",
             "ytLink": "https://youtu.be/gY78VGWWShA"
         },
@@ -49,7 +49,7 @@
                 "CSS3",
                 "JavaScript"
             ],
-            "image": "../../assets/images/003.png",
+            "image": "./assets/images/003.png",
             "projectPath": "../../projects/003/index.html",
             "ytLink": "https://youtu.be/OuD6cU2P-J4"
         }
