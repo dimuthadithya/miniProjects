@@ -1,6 +1,8 @@
 const projectInfo = document.getElementById('project-info');
 
-fetch('../../assets/data/data.json')
+fetch(
+  'https://raw.githubusercontent.com/dimuthadithya/miniProjects/b5a41b3a060179394da072789f51dea57d66e6f5/assets/data/data.json'
+)
   .then((response) => response.json())
   .then((data) => {
     data.projects.forEach((element) => {
