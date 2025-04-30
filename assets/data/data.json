@@ -52,6 +52,19 @@
             "image": "./assets/images/003.png",
             "projectPath": "./projects/003/index.html",
             "ytLink": "https://youtu.be/OuD6cU2P-J4"
+        },
+        {
+            "name": "Project 004",
+            "description": "Number Guessing Game using JavaScript & Bootstrap 5 | Fun Interactive Mini Game",
+            "technologies": [
+                "HTML5",
+                "Bootstrap 5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "image": "./assets/images/004.png",
+            "projectPath": "./projects/004/index.html",
+            "ytLink": "https://www.youtube.com/playlist?list=PLkCIWFzrCMBkPZeq5UehvryRKRScw8Czm"
         }
     ]
 }
