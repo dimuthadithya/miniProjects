@@ -65,6 +65,19 @@
             "image": "./assets/images/004.png",
             "projectPath": "./projects/004/index.html",
             "ytLink": "https://www.youtube.com/playlist?list=PLkCIWFzrCMBkPZeq5UehvryRKRScw8Czm"
+        },
+        {
+            "name": "Project 005",
+            "description": "Project Todo Application using JavaScript & Bootstrap 5 | Responsive UI Design",
+            "technologies": [
+                "HTML5",
+                "Bootstrap 5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "image": "./assets/images/005.png",
+            "projectPath": "./projects/005/index.html",
+            "ytLink": "https://www.youtube.com/playlist?list=PLkCIWFzrCMBnqnqPzkwSP4ZwcKcH1bBYy"
         }
     ]
 }
